@@ -37,7 +37,19 @@
 | **13-May** | Literature review                                                        | Research      | 2    |
 |            | Revised and edited proposal                                              | Preparation   | 1    |
 |            | Internal team meeting for proposal and presentation                      | Preparation   | 0.5  |
-|            | SQL query for table join and data cleaning and                           | Exploring     | 1    |
+|            | SQL query for table join and data cleaning                               | Exploring     | 1    |
 | **14-May** | Ｍeeting with instructor and TA                                          | Meeting       | 0.75 |
-|            | EDA , data cleaning and model building with python                       | Exploring     | 2    |
+|            | EDA , data cleaning and model building with python                       | Exploring     | 2.5  |
 |            | Established personal log                                                 | Preparation   | 1.5  |
+| **15-May** | Internal team meeting for spliting tasks and updating progress           | Meeting       | 0.75 |
+|            | Learned  classification of mental diseases                               | Exploring     | 1    |
+| **16-May** | Meeting with Greenspace, seeking advides and suggestons from the team    | Meeting       | 1    |
+|            | Used SQL to Extractact the counts of completed and missing assessments   | Exploring     | 1    |
+| **18-May** | Worked on weekly report                                                  | Preparation   | 1    |
+
+
+#### Week 4
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **20-May** | Workd on weekly report presentation slide deck                           | Preparation   | 1.5  |
+|            | Debugged for SQL                                                         | Preparation   | 1.5  |
