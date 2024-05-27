@@ -51,3 +51,21 @@
 |            | Classify and assign response labels use python                           | Data preparation| 2.5  |
 | **19-May** | Team report writing                                                      | Documentation | 1    |
 |            | Personal work log create                                                 | Documentation | 1    |
+
+
+#### Week 4
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **21-May** | Weekly report slides                        | Documentation       | 1  |
+|            | Answer data exploring for occupation and first language                              | Exploring      | 1  |
+| **22-May** | Ｍeeting with instructor and TA | Meeting    | 0.5 |
+|            | Data cleaning for occupation and first language                    | Cleaning     | 2    |
+| **23-May** | Internal team meeting - model adjusting discussion| Meeting   | 1.5   |
+|            | Data cleaning continue                       | Cleaning       | 2.5    |
+|            | EDA for demographic dataset                       | Loading       | 1.5    |
+| **24-May** | Model building | Modelling   | 3  |
+| **25-May** | Internal team meeting - model result discussion| Meeting   | 1   |
+|            | Adjusting models                      | Loading       | 1    |
+| **26-May** | Internal team meeting - next step discussion| Meeting   | 2   |
+|            | Team report writing                      | Documentation       | 0.5    |
+|            | Midterm Slides                    | Documentation       | 1.5    |
