@@ -53,3 +53,27 @@
 | **18-May** | Meeting with the team, mentioned about the challenages we've been facing to | Discussing   | 1    |
 |            | Revised the query to get correct results                     | Correction   | 0.5  |
 | **19-May** | Personal Log                                                 | Documenting  | 1    |
+
+
+
+#### Week 4
+
+| Date       | DESCRIPTION                                                  | Type         | HRs  |
+| ---------- | ------------------------------------------------------------ | ------------ | ---- |
+| **20-May** | Slides preparation                                           | Preparation  | 1    |
+|            | Revised and edited proposal                                  |              | 1    |
+|            | Revised and edited presentation slides                       | Preparation  | 0.5  |
+|            | SQL query for table join and data cleaning                   | Exploring    | 1    |
+| **21-May** | Ｍeeting with instructor and TA, getting the guidance of the next step | Meeting      | 0.75 |
+|            | Data Extraction                                              | Cleaning     | 1    |
+|            | Building models with "Mother Tongue, Ethnicity, Suicide Attempt, Violent Behaviour, Deliberate Self-Harm, Homicidal Threats, Experiencing Violence" Features | Implementing | 2    |
+| **22-May** | Fine tuning models                                           | Correction   | 1    |
+|            | Team discussion                                              | Meeting      | 1    |
+|            | Data Extraction for new features                             | Exploring    | 2    |
+| **23-May** | Green Space Meeting                                          | Meeting      | 1    |
+|            | Building models with less NaN value Features                 | Implementing | 1.5  |
+| **24-May** | Classify and assign response labels to patients              | Preparation  | 1    |
+| **25-May** | Team discussion                                              | Discussing   | 1    |
+|            | Compare new features models and new model results            | Comparision  | 1.5  |
+| **26-May** | Personal Log                                                 | Documenting  | 1    |
+|            | Report and presentation slides                               | Presentation | 4    |
