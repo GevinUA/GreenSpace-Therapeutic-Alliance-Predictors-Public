@@ -56,16 +56,32 @@
 #### Week 4
 | Date       | DESCRIPTION                                                             | Type          | HRs  |
 |------------|--------------------------------------------------------------------------|---------------|------|
-| **21-May** | Weekly report slides                        | Documentation       | 1  |
+| **20-May** | Weekly report slides                        | Documentation       | 1  |
 |            | Answer data exploring for occupation and first language                              | Exploring      | 1  |
-| **22-May** | Ｍeeting with instructor and TA | Meeting    | 0.5 |
+| **21-May** | Ｍeeting with instructor and TA | Meeting    | 0.5 |
 |            | Data cleaning for occupation and first language                    | Cleaning     | 2    |
-| **23-May** | Internal team meeting - model adjusting discussion| Meeting   | 1.5   |
+| **22-May** | Internal team meeting - model adjusting discussion| Meeting   | 1.5   |
 |            | Data cleaning continue                       | Cleaning       | 2.5    |
 |            | EDA for demographic dataset                       | Loading       | 1.5    |
+| **23-May** | Meeting with GreenSpace - Suggestion to focus on matching between theripist and patients| Meeting| 1    |
 | **24-May** | Model building | Modelling   | 3  |
 | **25-May** | Internal team meeting - model result discussion| Meeting   | 1   |
 |            | Adjusting models                      | Loading       | 1    |
 | **26-May** | Internal team meeting - next step discussion| Meeting   | 2   |
 |            | Team report writing                      | Documentation       | 0.5    |
 |            | Midterm Slides                    | Documentation       | 1.5    |
+
+
+#### Week 5
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **27-May** | Midtern Report slides adjusting                       | Documentation       | 0.5  |
+|            | Internal team meeting - midterm rehearsal                            |  Meeting     | 1  |
+| **28-May** | Midtern Presentation | Presentation    | 0.3 |
+|            | Peer discussion       | Meeting    | 2    |
+|            | Grade the assessment score and research | Cleaning & Research       | 1    |
+| **29-May** | Calculat # of successful patient & visualize patient demographic  | Analysis      | 2    |
+| **30-May** | Meeting with GreenSpace - theripist and patients matching result| Meeting| 1    |
+| **31-May** | Calculat ratio of patients that improve, explore the relationship with TA score | Analysis   | 3  |
+| **01-June**| Internal team meeting - model result discussion| Meeting   | 1   |
+|            | Team report writing                      | Documentation       | 0.5    |
