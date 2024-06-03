@@ -62,7 +62,7 @@
 |            | Modeling with different variables identified                              | Modeling     |  1  | 
 | **23-May** | Meeting with Greenspace - shared preliminary results and sought advices   | Meeting      |  1   |
 |            | Internal team meeting - model adjusting discussion, brainstorming for next step | Meeting|  1.5 |
-| **24-May** | Classified patients for diagnosis based on  information provided by GreenSpace| Exploring | 2.5 |
+| **24-May** | Classified patients for diagnosis based on  information provided by GreenSpace| Exploring | 4    |
 |            | Merged data from everyone for further  analysis                           | Data Cleaning | 1   |
 |            | Tried EDA and Modeling with different variables identified                | Modeling      | 1.5 |
 | **25-May** | Tried Modeling with different variables identified                        | Modeling      | 1.5 |
@@ -70,12 +70,44 @@
 | **26-May** | Worked on slide deck for midterm presentation                             | Documentation | 1.5 |
 |            | Worked on week 4 weekly report                                            | Documentation | 0.5 |
 |            | Internal team meeting - slide deck check                                  | Meeting       | 1   |
+|            | Personal log updated                                                      | Documentation | 0.5 |
+
 
 
 #### Week 5
-| Date       | DESCRIPTION                                                             | Type          | HRs  |
+| Date       | DESCRIPTION                                                              | Type          | HRs  |
 |------------|--------------------------------------------------------------------------|---------------|------|
 | **27-May** | Presentation rehearsal                                                   | Prepararion   | 1.5  |
+|            | SQL to extract new data for different trial                              | Data Cleaning | 3   |
+| **28-May** | Capstone midterm presentation                                             | Meeting      |  4  |
+|            | Internal meeting with team members after midterm presentation             | Meeting      |  1  |
+| **29-May** | Built unsupervised models suggested by instrutors                         | Modeling     |  4  |
+|            | Prepared slide deck for meeting with Greenspace                           | Preparation  |  1  |
+| **30-May** | Meeting with Greenspace - shared preliminary results and sought advices   |  Meeting     |  1  |
+|            | Internal meeting for next steps                                           |  Meeting     |  1  |
+| **31-May** | SQL to extract new data for other team members to analyze                 |Data Cleaning | 2.5 |
+| **01-Jun** | Internal team meeting - discussed analysis results and match logic        | Meeting      | 1   |
+| **02-Jun** | Worked on week 5 weekly report                                            | Documentation| 0.5 |
+|            | Personal log updated                                                      | Documentation | 0.5 |
+
+#### Week 6
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **03-Jun** | Workd on weekly report presentation slide deck                           | Documentation | 1.5  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
