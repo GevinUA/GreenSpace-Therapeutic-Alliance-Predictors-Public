@@ -77,3 +77,23 @@
 |            | Compare new features models and new model results            | Comparision  | 1.5  |
 | **26-May** | Personal Log                                                 | Documenting  | 1    |
 |            | Report and presentation slides                               | Presentation | 4    |
+
+
+
+**Week 5**
+
+| Date       | DESCRIPTION                               | Type         | HRs  |
+| ---------- | ----------------------------------------- | ------------ | ---- |
+| **27-May** | Midterm Slides preparation                | Preparation  | 1    |
+|            | Midterm presentation rehearsal            | Presentation | 1    |
+| **28-May** | Midterm presentation                      | Presentation | 0.5  |
+|            | Discuss with other teams with the result  | Discussion   | 2    |
+| **29-May** | Unsupervised model setup                  | Modelling    | 1    |
+| **30-May** | Green Space Meeting                       | Meeting      | 1    |
+|            | Unsupervised model training               | Implementing | 2    |
+| **31-May** | Unsupervised model comparision            | Comparison   | 1    |
+| **1-June** | Team discussion                           | Discussing   | 1    |
+|            | Unsupervised model comparision correction | Comparision  | 0.5  |
+| **2-June** | Personal Log                              | Documenting  | 1    |
+|            | Weekly report and presentation slides     | Presentation | 2    |
+
