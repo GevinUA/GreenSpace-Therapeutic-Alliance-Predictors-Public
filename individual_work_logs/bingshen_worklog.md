@@ -97,3 +97,23 @@
 | **2-June** | Personal Log                              | Documenting  | 1    |
 |            | Weekly report and presentation slides     | Presentation | 2    |
 
+
+
+**Week 6**
+
+| Date        | DESCRIPTION                                         | Type                    | HRs  |
+| ----------- | --------------------------------------------------- | ----------------------- | ---- |
+| **03-June** | Weekly report slides                                | Documentation           | 0.5  |
+|             | Score Difference Feature Discovery                  | Implementation          | 2    |
+| **04-June** | Weekly meeting with instructor and TA               | Meeting                 | 2    |
+|             | Seek help and meet with Jeff                        | Meeting                 | 1    |
+|             | Seek help and meet with Cassie                      | Meeting                 | 0.75 |
+| **05-June** | Score Difference Feature Model Training             | ImplementationModelling | 1    |
+|             | Slide prepation before meeting with GreenSpace      | Documentation           | 1    |
+| **06-June** | Green Space Meeting                                 | Meeting                 | 1    |
+|             | Explore the recommend algorithm from YouTube        | Learning                | 1.5  |
+| **07-June** | Implement Hybrid Recommend System                   | Implement               | 3.5  |
+| **08-June** | Team discussion with the new recommend model result | Discussing              | 1    |
+| **09-June** | Personal Log                                        | Documenting             | 1    |
+|             | Weekly report and presentation slides               | Presentation            | 2    |
+
