@@ -85,3 +85,19 @@
 | **31-May** | Calculat ratio of patients that improve, explore the relationship with TA score | Analysis   | 3  |
 | **01-June**| Internal team meeting - model result discussion| Meeting   | 1   |
 |            | Team report writing                      | Documentation       | 0.5    |
+
+
+#### Week 6
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **03-June** | Weekly report slides                        | Documentation       | 0.5  |
+|             | Calculat ratio of successful patient | Analysis      | 1.5    |
+|             |  Discover theripist special    | Analysis      | 1    |
+| **04/05-June** | Sick |    | 0 |
+| **06-June** | Meeting with GreenSpace - Disscuss result and recommandation model| Meeting| 1    |
+|             | Internal team meeting - next step discussion| Meeting   | 1   |
+| **07-June** | Research for recommandation system | Reading   | 1   |
+|             |  Data cleaning | Cleaning   | 1   |
+|             |  KNN Recomandation Model | Modelling   | 2   |
+| **08-June** | Internal team meeting - recommandation model discussion | Meeting   | 1.5   |
+| **09-June** | Team report writing                      | Documentation       | 0.5    |
