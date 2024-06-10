@@ -77,11 +77,11 @@
 #### Week 5
 | Date       | DESCRIPTION                                                              | Type          | HRs  |
 |------------|--------------------------------------------------------------------------|---------------|------|
-| **27-May** | Presentation rehearsal                                                   | Prepararion   | 1.5  |
-|            | SQL to extract new data for different trial                              | Data Cleaning | 3   |
+| **27-May** | Presentation rehearsal                                                   | Preparation   | 1.5  |
+|            | SQL to extract new data for different trial-therapist with PHQ-9 assessments| Data Cleaning | 3   |
 | **28-May** | Capstone midterm presentation                                             | Meeting      |  4  |
 |            | Internal meeting with team members after midterm presentation             | Meeting      |  1  |
-| **29-May** | Built unsupervised models suggested by instrutors                         | Modeling     |  4  |
+| **29-May** | Built unsupervised models suggested by instrutors- PCA and clustering     | Modeling     |  4  |
 |            | Prepared slide deck for meeting with Greenspace                           | Preparation  |  1  |
 | **30-May** | Meeting with Greenspace - shared preliminary results and sought advices   |  Meeting     |  1  |
 |            | Internal meeting for next steps                                           |  Meeting     |  1  |
@@ -94,6 +94,34 @@
 | Date       | DESCRIPTION                                                             | Type          | HRs  |
 |------------|--------------------------------------------------------------------------|---------------|------|
 | **03-Jun** | Workd on weekly report presentation slide deck                           | Documentation | 1.5  |
+|            | Looked at data and discussed some confusion with Greenspace              | Documentation | 0.5  | 
+| **04-Jun** | Ｍeeting with instructor and TA                                          | Meeting       | 0.5  |
+|            | Prepared slide decks for dissussing with Jeff and Cassie                 | Preparation   | 0.5  |
+|            | Discussion with Jeff                                                     | Meeting       | 1    |
+|            | Discussion with Cassi                                                    | Meeting       | 0.75 |
+|            | Discussion with team member Zerui for next steps                         | Meeting       | 0.75 |
+|            | Used SQL to extract toal patient counts and caseload for each therapist  | Data Cleaning | 1.5  |
+| **05-Jun** | Verified and identified problematic caseload                             | Data Cleaning | 1    |
+|            | Built random forest and neural network for predicting match score        | Modeling      | 2    |
+|            | Internal team meeting - discussed analysis results                       | Meeting       | 1    |
+|            | Prepared slide deck for meeting with Greenspace                           | Preparation  |  1  |
+| **06-Jun** | Meeting with Greenspace                                                  | Ｍeeting      | 1    |
+| **07-Jun** | Studied for recommendation algorithms                                    | Exploring     | 2    |
+| **09-Jun** | Worked on week 6 weekly report                                           | Documentation | 1    |
+|            | Personal log updated                                                      | Documentation | 0.5 |
+|            | Github updated and cleaned                                                | Documentation | 0.5 |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
