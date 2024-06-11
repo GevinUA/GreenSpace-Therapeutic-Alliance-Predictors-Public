@@ -50,4 +50,57 @@
 | **18-May** | Internal team meeting: weekly team report writing                        | Meeting       | 1    |
 |            | Identified more tag categories                                          | Cleaning      | 2  |
 | **19-May** | Weekly Team report                                                       | Writing       | 1    |
-| **20-May** | Weekly Team report slides                                                | Reporting.    | 1    |
+| **20-May** | Weekly Team report slides                                                | Reporting    | 1.5    |
+
+#### Week 4
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **21-May** | Ｍeeting with Instructor and TA                                           | Meeting      | 0.5  |
+|            | Go over more tags by keywords, make sure include comprehensive diagnosis  | Cleaning    |  3   |
+| **22-May** | Internal team meeting: Discuss model performance and adjustment.          | Meeting      |  1   |
+|            | Create functions to categorize diagnosis by keywords                       | Cleaning    |  2  |
+|            | Identify tags for modality, include as many method as possible            | Cleaning     |  2  |
+|            | Create functions to categorize modality                                   | Cleaning     |  1  | 
+| **23-May** | Meeting with Client: adjustment on next step                             | Meeting      |  1   |
+|            | Internal team meeting: brainstorm for next step                          | Meeting      |  1.5 |
+| **24-May** | Clean and merged data from tags and teammates' results                    | Data Cleaning | 2  |
+| **25-May** | Tried model building using new data in different methods                 | Modeling      | 2  |
+|            | Internal team meeting: assign tasks for next week                         | Meeting       | 1   |
+| **26-May** | Slides for midterm presentation                                           | Reporting | 1  |
+|            | Team weekly report                                                        | Reporting     | 1  |
+|            | Internal team meeting: decide next steps                                 | Meeting       | 1   |
+
+#### Week 5
+| Date       | DESCRIPTION                                                              | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **27-May** | Presentation rehearsal                                                   | Reporting   | 1  |
+| **28-May** | Capstone midterm presentation                                             | Meeting      |  4  |
+|            | Internal meeting and Discussion with Team 1                               | Meeting      |  1.5  |
+| **29-May** | Find average score improvement for each therapist                        | Exploring      |  2   |
+|            | Slides for client meeting                                                  | Reporting  |  1  |
+| **30-May** | Meeting with Client: shared progress and asked for advice                 |  Meeting     |  1  |
+|            | Internal meeting for next steps                                           |  Meeting     |  1  |
+| **31-May** | Try to clean and merge all data extensively                               |Data Cleaning|  3  |
+| **01-Jun** | Internal team meeting: discussed match logic and report writing           | Meeting      | 1   |
+| **02-Jun** | Weekly team report                                                        | Reporting    | 1  |
+
+#### Week 6
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **03-Jun** | Slides for team report                                                  | Reporting | 1  |
+|            | Find average score improvement and improved % on extended data set       | Exploring | 2  |
+|            | Adjust old random forest model using latest data                         | Modeling      | 1    |
+| **04-Jun** | Ｍeeting with instructor and TA                                          | Meeting       | 0.5  |
+|            | Discussion with Professor Jeff Andrews                                    | Meeting       | 1    |
+|            | Discussion with Cassie                                                    | Meeting       | 0.75 |
+|            | Discussion with team member Koshin for next steps                         | Meeting       | 0.75 |
+| **05-Jun** | Find most frequently assigned assessment of therapists                    | Exploring  |  2.5    |
+|            | Internal team meeting: progress discussion                                | Meeting       | 1    |
+|            | Slides for client meeting                                                | Reporting      |  1  |
+| **06-Jun** | Explored correlation of last TA score with improved %                   | Exploring | 2 |
+|            | Meeting with Client: asked for comment on matching model                | Meeting      | 1    |
+| **07-Jun** | Read articles about recommendation systems                                | Exploring     | 1.5    |
+| **09-Jun** | Weekly team report                                                        | Reporting | 1    |
+
+#### Week 7
+| **10-Jun** | Personal work log                                                         | Documentation | 2    |
