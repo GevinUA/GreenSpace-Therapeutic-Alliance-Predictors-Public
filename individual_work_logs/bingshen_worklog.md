@@ -53,3 +53,67 @@
 | **18-May** | Meeting with the team, mentioned about the challenages we've been facing to | Discussing   | 1    |
 |            | Revised the query to get correct results                     | Correction   | 0.5  |
 | **19-May** | Personal Log                                                 | Documenting  | 1    |
+
+
+
+#### Week 4
+
+| Date       | DESCRIPTION                                                  | Type         | HRs  |
+| ---------- | ------------------------------------------------------------ | ------------ | ---- |
+| **20-May** | Slides preparation                                           | Preparation  | 1    |
+|            | Revised and edited proposal                                  |              | 1    |
+|            | Revised and edited presentation slides                       | Preparation  | 0.5  |
+|            | SQL query for table join and data cleaning                   | Exploring    | 1    |
+| **21-May** | Ｍeeting with instructor and TA, getting the guidance of the next step | Meeting      | 0.75 |
+|            | Data Extraction                                              | Cleaning     | 1    |
+|            | Building models with "Mother Tongue, Ethnicity, Suicide Attempt, Violent Behaviour, Deliberate Self-Harm, Homicidal Threats, Experiencing Violence" Features | Implementing | 2    |
+| **22-May** | Fine tuning models                                           | Correction   | 1    |
+|            | Team discussion                                              | Meeting      | 1    |
+|            | Data Extraction for new features                             | Exploring    | 2    |
+| **23-May** | Green Space Meeting                                          | Meeting      | 1    |
+|            | Building models with less NaN value Features                 | Implementing | 1.5  |
+| **24-May** | Classify and assign response labels to patients              | Preparation  | 1    |
+| **25-May** | Team discussion                                              | Discussing   | 1    |
+|            | Compare new features models and new model results            | Comparision  | 1.5  |
+| **26-May** | Personal Log                                                 | Documenting  | 1    |
+|            | Report and presentation slides                               | Presentation | 4    |
+
+
+
+**Week 5**
+
+| Date       | DESCRIPTION                               | Type         | HRs  |
+| ---------- | ----------------------------------------- | ------------ | ---- |
+| **27-May** | Midterm Slides preparation                | Preparation  | 1    |
+|            | Midterm presentation rehearsal            | Presentation | 1    |
+| **28-May** | Midterm presentation                      | Presentation | 0.5  |
+|            | Discuss with other teams with the result  | Discussion   | 2    |
+| **29-May** | Unsupervised model setup                  | Modelling    | 1    |
+| **30-May** | Green Space Meeting                       | Meeting      | 1    |
+|            | Unsupervised model training               | Implementing | 2    |
+| **31-May** | Unsupervised model comparision            | Comparison   | 1    |
+| **1-June** | Team discussion                           | Discussing   | 1    |
+|            | Unsupervised model comparision correction | Comparision  | 0.5  |
+| **2-June** | Personal Log                              | Documenting  | 1    |
+|            | Weekly report and presentation slides     | Presentation | 2    |
+
+
+
+**Week 6**
+
+| Date        | DESCRIPTION                                         | Type                    | HRs  |
+| ----------- | --------------------------------------------------- | ----------------------- | ---- |
+| **03-June** | Weekly report slides                                | Documentation           | 0.5  |
+|             | Score Difference Feature Discovery                  | Implementation          | 2    |
+| **04-June** | Weekly meeting with instructor and TA               | Meeting                 | 2    |
+|             | Seek help and meet with Jeff                        | Meeting                 | 1    |
+|             | Seek help and meet with Cassie                      | Meeting                 | 0.75 |
+| **05-June** | Score Difference Feature Model Training             | ImplementationModelling | 1    |
+|             | Slide prepation before meeting with GreenSpace      | Documentation           | 1    |
+| **06-June** | Green Space Meeting                                 | Meeting                 | 1    |
+|             | Explore the recommend algorithm from YouTube        | Learning                | 1.5  |
+| **07-June** | Implement Hybrid Recommend System                   | Implement               | 3.5  |
+| **08-June** | Team discussion with the new recommend model result | Discussing              | 1    |
+| **09-June** | Personal Log                                        | Documenting             | 1    |
+|             | Weekly report and presentation slides               | Presentation            | 2    |
+
