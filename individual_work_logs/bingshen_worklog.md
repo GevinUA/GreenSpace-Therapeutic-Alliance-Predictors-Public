@@ -117,3 +117,23 @@
 | **09-June** | Personal Log                                        | Documenting             | 1    |
 |             | Weekly report and presentation slides               | Presentation            | 2    |
 
+
+
+**Week 7**
+
+| Date        | DESCRIPTION                                                  | Type           | HRs  |
+| ----------- | ------------------------------------------------------------ | -------------- | ---- |
+| **10-June** | Weekly report slides                                         | Documentation  | 0.5  |
+|             | Fine-tune Hybrid Recoomend Algorithm                         | Implementation | 2    |
+| **11-June** | Weekly meeting with instructor and TA                        | Meeting        | 2    |
+|             | Evaluate the Hybrid Recoomend Algorithm                      | Evaluation     | 2.5  |
+| **12-June** | Realize that accuracy might be a misleading, try to prove    | Debug          | 3    |
+|             | Data Re-organizing                                           | Data           | 1    |
+| **13-June** | Green Space Meeting                                          | Meeting        | 1    |
+|             | Found out the reason of the wrong accuracy (So sad :(        | Exploring      | 0.5  |
+| **14-June** | Try some other algorithms (SVM)                              | Implement      | 2    |
+|             | Know that one of our teammate has a way better algorithm that might be the ultimate solution |                |      |
+| **15-June** | Help Zheng preparing her algorithms (pair-programming)       | Implementing   | 2    |
+| **16-June** | Personal Log                                                 | Documenting    | 1    |
+|             | Weekly report and presentation slides                        | Presentation   | 2    |
+
