@@ -103,4 +103,21 @@
 | **09-Jun** | Weekly team report                                                        | Reporting | 1    |
 
 #### Week 7
-| **10-Jun** | Personal work log                                                         | Documentation | 2    |
+| **10-Jun** | Personal work log                                                         | Documentation | 2 |
+|            | Slides for team report                                                    | Reporting | 0.5  |
+|            | Build recommendation algorithm                                            | Modelling | 4   |
+| **11-Jun** | Ｍeeting with instructor and TA                                           | Meeting | 0.5 |
+|            | Fix bugs for model, clean and merge data set and feed in model            | Modelling |  3.75  |
+| **12-Jun** | Internal team meeting: Progress discussion                                | Meeting   | 2 |
+|            | Fix error for model, filter data and feed in model                        | Modelling | 3 |
+| **13-Jun** | Meeting with client: report progress in modelling                         | Meeting | 1 |
+|            | Internal team meeting: Progress discussion                                | Meeting | 2 |
+|            | Fix error in similarity calculation                                       | Modelling | 4 |
+| **14-Jun** | Test the recommendation model on data                                     | Modelling | 2 |
+| **15-Jun** | Internal team meeting: Finalize model                                     | Meeting | 2 |
+| **16-Jun** | Try slightly different algorithm to rank therapist performance            | Modelling | 4 |
+
+#### Week 8
+| **17-Jun** | Personal work log                                                         | Documentation | 0.5 |
+|            | Weekly team report                                                        | Reporting | 0.5 |
+
