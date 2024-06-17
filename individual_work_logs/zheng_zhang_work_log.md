@@ -101,3 +101,22 @@
 |             |  KNN Recomandation Model | Modelling   | 2   |
 | **08-June** | Internal team meeting - recommandation model discussion | Meeting   | 1.5   |
 | **09-June** | Team report writing                      | Documentation       | 0.5    |
+
+
+#### Week 7
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **10-June** | Weekly report slides                        | Documentation       | 0.5  |
+|             | Adjust KNN model with more features| Modelling     | 2.5    |
+| **11-June** | Ｍeeting with instructor and TA | Meeting    | 0.5 |
+|             | Build CNN model | Modelling     | 3   |
+|             | Adjust and debug | Adjusting     | 2   |
+| **12-June** | Internal team meeting - Recommadation system discussion| Meeting   | 2   |
+|             | Adjusted model dataset | Analysis     | 1  |
+|             | Build CNN model | Modelling     | 3   |
+| **13-June** | Meeting with GreenSpace | Meeting| 1    |
+|             | Internal team meeting - model adjusting discussion| Meeting   | 2   |
+|             | Rebuild and adjust model| Modelling   | 8   |
+| **14-June** | testing CNN model and try DNN model| Modelling   | 3   |
+| **15-June** | Build DNN model and debug| Modelling   | 8   |
+| **16-June** | Build DNN model| Modelling   | 10  |
