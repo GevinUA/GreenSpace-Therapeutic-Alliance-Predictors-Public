@@ -103,6 +103,8 @@
 | **09-Jun** | Weekly team report                                                        | Reporting | 1    |
 
 #### Week 7
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
 | **10-Jun** | Personal work log                                                         | Documentation | 2 |
 |            | Slides for team report                                                    | Reporting | 0.5  |
 |            | Build recommendation algorithm                                            | Modelling | 4   |
@@ -118,6 +120,11 @@
 | **16-Jun** | Try slightly different algorithm to rank therapist performance            | Modelling | 4 |
 
 #### Week 8
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
 | **17-Jun** | Personal work log                                                         | Documentation | 0.5 |
 |            | Weekly team report                                                        | Reporting | 0.5 |
+|            | Model Testing using new patients data                                     | Modelling | 3 |
+| **18-Jun** | Meeting with instructor and TA                                            | Meeting | 0.5 |
+
 
