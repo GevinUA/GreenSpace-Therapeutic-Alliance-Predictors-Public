@@ -107,9 +107,40 @@
 |            | Prepared slide deck for meeting with Greenspace                           | Preparation  |  1  |
 | **06-Jun** | Meeting with Greenspace                                                  | Ｍeeting      | 1    |
 | **07-Jun** | Studied for recommendation algorithms                                    | Exploring     | 2    |
+| **08-Jun** | Internal meeting for next week preparation                                | Meeting    | 1    |
 | **09-Jun** | Worked on week 6 weekly report                                           | Documentation | 1    |
 |            | Personal log updated                                                      | Documentation | 0.5 |
 |            | Github updated and cleaned                                                | Documentation | 0.5 |
+
+#### Week 7
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **10-Jun** | Workd on weekly report presentation slide deck                           | Documentation | 1    |
+|            | Learned how to calculate similarity                                      | Exploring     | 1    |
+|            | Learned difference between collaborative filtering and content-based filtering | Exploring     | 1    | 
+|            | Tried calculating cosine similarity                                      | Programming   | 3   |
+| **11-Jun** | Ｍeeting with instructor and TA                                          | Meeting       | 0.75  |
+|            | Built hybrid recommendation system - calculating Euclidean distance      | Modeling       | 8 |
+| **12-Jun** | Built hybrid recommendation system -test and check                       | Modeling       | 6    |
+|            | Internal team meeting - discussed results and challenges                  | Meeting       | 1    |
+|            | Built hybrid recommendation system - linked all tables together           | Programming  |  2  |
+| **13-Jun** | Prepared slide deck for meeting with Greenspace                           | Preparation  | 1    |
+|            | Meeting with Greenspace                                                   | Ｍeeting      | 1    |
+|            | Internal team meeting - next steps                                         | Ｍeeting      | 1    |
+| **14-Jun** | Modified for model                                                        | Modeling    | 1   |
+| **15-Jun** | Internal meeting- result discussion                                       | Meeting       | 1.5  |
+| **16-Jun** | Worked on week 6 weekly report                                            | Documentation | 1 |
+|            | Data cleaning and join                                                    | Data Cleaning | 1 |
+
+#### Week 8
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **17-Jun** | Workd on weekly report presentation slide deck                           | Documentation | 1    |
+|            | Recommendation model adjustment                                          | Modeling      | 4    |
+|            | Internal meeting for progress                                            | Meeting       | 0.5  |
+|            | Model testing                                                            | Testing       | 4  |
+|            | Personal log updated                                                     | Documentation | 0.75 | 
+
 
 
 
