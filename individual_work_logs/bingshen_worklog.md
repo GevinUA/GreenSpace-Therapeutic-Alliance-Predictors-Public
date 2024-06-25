@@ -137,3 +137,23 @@
 | **16-June** | Personal Log                                                 | Documenting    | 1    |
 |             | Weekly report and presentation slides                        | Presentation   | 2    |
 
+
+
+**Week 8**
+
+| Date        | DESCRIPTION                           | Type           | HRs  |
+| ----------- | ------------------------------------- | -------------- | ---- |
+| **17-June** | Weekly report slides                  | Documentation  | 0.5  |
+|             | Fine-tune Hybrid Recoomend Algorithm  | Implementation | 2    |
+| **18-June** | Weekly meeting with instructor and TA | Meeting        | 2    |
+|             | Final report                          | Report         | 3    |
+| **19-June** | Final report                          | Report         | 3    |
+|             | Final slides                          | Report         | 4    |
+| **20-June** | Green Space Meeting                   | Meeting        | 1    |
+|             | Final report                          | Report         | 3    |
+| **21-June** | Final report                          | Report         | 1    |
+|             | Team meeting                          | Meeting        | 1    |
+| **22-June** | Final report                          | Report         | 1    |
+|             | Presentation rehearsal                | Rehearsal      | 1    |
+| **23-June** | Final report                          | Report         | 8    |
+|             | Presentation rehearsal                | Rehearsal      | 1    |
