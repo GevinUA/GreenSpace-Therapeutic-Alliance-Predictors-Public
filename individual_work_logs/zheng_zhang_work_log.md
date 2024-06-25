@@ -120,3 +120,28 @@
 | **14-June** | testing CNN model and try DNN model| Modelling   | 3   |
 | **15-June** | Build DNN model and debug| Modelling   | 8   |
 | **16-June** | Build DNN model| Modelling   | 10  |
+
+#### Week 8
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **17-June** | Weekly report slides                        | Documentation       | 0.5  |
+|             | Fine-tune DNN model with more features| Modelling     | 2    |
+| **18-June** | Ｍeeting with instructor and TA | Meeting    | 0.5 |
+|             | Validation DNN model | Validation    | 2   |
+| **19-June** | Internal team meeting - wrap up| Meeting   | 2   |
+|             | Adjusted model dataset | Analysis     | 1  |
+|             | Build CNN model | Modelling     | 3   |
+| **20-June** | Meeting with GreenSpace | Meeting| 1    |
+|             | Internal team meeting - final pre discussion| Meeting   | 2   |
+|             | Final presentation slides| Report    | 3    |
+| **21-June** | Final presentation slides| Report    | 3    |
+|             | Final report| Report    | 4    |
+| **22-June** | Final report| Report    | 5    |
+| **23-June** | Final pre rehersal and disccuss report| Meeting    | 2   |
+|             | Final report| Report    | 5    |
+
+#### Week 9
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **24-June** | Final report Adjust                        | Documentation       | 3  |
+|             | Final pre rehersal and disccuss report| Meeting    | 1    |
