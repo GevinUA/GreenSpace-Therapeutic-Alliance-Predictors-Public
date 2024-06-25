@@ -140,6 +140,33 @@
 |            | Internal meeting for progress                                            | Meeting       | 0.5  |
 |            | Model testing                                                            | Testing       | 4  |
 |            | Personal log updated                                                     | Documentation | 0.75 | 
+| **18-Jun** | Ｍeeting with instructor and TA                                          | Meeting       | 0.5  |
+|            | Hybrid recommendation system approach 1 refinement                       | Modeling       | 8 |
+| **19-Jun** | Ｈybrid recommendation system approach 1 final testing                    | Testing       | 3    |
+|            | Prepared final presentation skeleton                                      | Preparation   | 1    |
+|            | Internal team meeting - discussed results and final presentation skeleton | Meeting       | 1    |
+|            | Prepared slide deck for meeting with Greenspace                           | Preparation  |  1  |
+| **20-Jun** | Built final report skeleton                                               | Documentation | 1.5  |
+|            | Meeting with Greenspace                                                   | Ｍeeting      | 0.75 |
+|            | Internal team meeting - final report task assignment                      | Ｍeeting      | 1    |
+| **21-Jun** | Final report writing                                                      | Documentation | 8   |
+| **22-Jun** | Final report writing                                                      | Documentation | 5  |
+|            | Worked on Final slide decks                                                | Documentation | 2  |
+| **23-Jun** | Final report writing                                                       | Documentation | 4 |
+|            | Final presentation rehersal                                                | Preparation   | 1 |
+|            | Internal team meeting- rehersal and executive summary discussion           | Ｍeeting      | 1    |
+
+
+#### Week 9
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **24-Jun** | Internal team meeting- rehersal and final report                         | Preparation   | 1    |
+|            | Final report refinement                                                  | Documentation  | 5    |
+|            | Presentation rehersal                                                    | Preparation   | 0.5  |
+|            | Personal log updated                                                     | Documentation | 0.5  |
+|            | Code clean up                                                            | Documentation | 1.5  |
+| **25-Jun** | Final presentation                                                       | Meeting       | 6   |
+
 
 
 
