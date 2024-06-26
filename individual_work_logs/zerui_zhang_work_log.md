@@ -107,24 +107,47 @@
 |------------|--------------------------------------------------------------------------|---------------|------|
 | **10-Jun** | Personal work log                                                         | Documentation | 2 |
 |            | Slides for team report                                                    | Reporting | 0.5  |
-|            | Build recommendation algorithm                                            | Modelling | 4   |
+|            | Build recommendation algorithm                                            | Modeling | 4   |
 | **11-Jun** | Ｍeeting with instructor and TA                                           | Meeting | 0.5 |
-|            | Fix bugs for model, clean and merge data set and feed in model            | Modelling |  3.75  |
+|            | Fix bugs for model, clean and merge data set and feed in model            | Modeling |  3.75  |
 | **12-Jun** | Internal team meeting: Progress discussion                                | Meeting   | 2 |
-|            | Fix error for model, filter data and feed in model                        | Modelling | 3 |
+|            | Fix error for model, filter data and feed in model                        | Modeling | 3 |
 | **13-Jun** | Meeting with client: report progress in modelling                         | Meeting | 1 |
 |            | Internal team meeting: Progress discussion                                | Meeting | 2 |
-|            | Fix error in similarity calculation                                       | Modelling | 4 |
-| **14-Jun** | Test the recommendation model on data                                     | Modelling | 2 |
+|            | Fix error in similarity calculation                                       | Modeling | 4 |
+| **14-Jun** | Test the recommendation model on data                                     | Modeling | 2 |
 | **15-Jun** | Internal team meeting: Finalize model                                     | Meeting | 2 |
-| **16-Jun** | Try slightly different algorithm to rank therapist performance            | Modelling | 4 |
+| **16-Jun** | Try slightly different algorithm to rank therapist performance            | Modeling | 4 |
 
 #### Week 8
 | Date       | DESCRIPTION                                                             | Type          | HRs  |
 |------------|--------------------------------------------------------------------------|---------------|------|
 | **17-Jun** | Personal work log                                                         | Documentation | 0.5 |
 |            | Weekly team report                                                        | Reporting | 0.5 |
-|            | Model Testing using new patients data                                     | Modelling | 3 |
+|            | Model Testing using new patients data                                     | Modeling | 4 |
+|            | Internal team meeting                                                     | Meeting | 0.5 |
+|            | Editing code for modularized functions                                    | Modeling | 5 |
 | **18-Jun** | Meeting with instructor and TA                                            | Meeting | 0.5 |
+|            | Refine model and data pre-processing for the model                        | Modeling | 6.5 |
+| **19-Jun** | Recommendation model refinement and testing                               | Modeling | 5 |
+|            | Internal team meeting for final presentation                              | Meeting | 1 |
+| **20-Jun** | Slide for client meeting                                                  | Reporting | 0.5 |
+|            | Client meeting                                                            | Meeting | 1 |
+|            | Internal team meeting: split tasks for final report                       | Meeting | 1 |
+|            | Code refinement                                                           | Modeling | 2 |
+| **21-Jun** | Working on final report                                                   | Reporting | 5 |
+| **22-Jun** | Working on final report                                                   | Reporting | 5 |
+|            | Working on final presentation slides                                      | Reporting | 1 |
+| **23-Jun** | Working on final report                                                   | Reporting | 3 |
+|            | Working on final presentation slides                                      | Reporting | 2 |
+|            | Internal team meeting: rehearsal for final presentation                   | Meeting | 1 |
 
-
+#### Week 9
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
+| **24-Jun** | Internal team meeting: rehearsal and final report discussion             | Meeting  | 1 |
+|            | Final presentation practice                                              | Reporting | 2 |
+|            | Working on final report                                                  | Reporting | 3 |
+| **25-Jun** | Final Presentation                                                       | Reporting      | 6 |
+|            | Personal log updated                                                     | Documentation | 0.75 |
+|            | Final report format editing and submission                               | Reporting | 3 |
