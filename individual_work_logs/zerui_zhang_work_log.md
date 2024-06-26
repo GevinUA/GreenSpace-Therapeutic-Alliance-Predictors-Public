@@ -142,7 +142,7 @@
 |            | Working on final presentation slides                                      | Reporting | 2 |
 |            | Internal team meeting: rehearsal for final presentation                   | Meeting | 1 |
 
-#### Week 8
+#### Week 9
 | Date       | DESCRIPTION                                                             | Type          | HRs  |
 |------------|--------------------------------------------------------------------------|---------------|------|
 | **24-Jun** | Internal team meeting: rehearsal and final report discussion             | Meeting  | 1 |
